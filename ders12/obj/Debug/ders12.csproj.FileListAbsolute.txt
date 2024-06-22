@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\bin\Debug\ders12.exe.config
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\bin\Debug\ders12.exe
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\bin\Debug\ders12.pdb
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.Form1.resources
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.exe
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\ders12\ders12\obj\Debug\ders12.pdb
